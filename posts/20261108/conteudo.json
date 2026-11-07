@@ -1,0 +1,93 @@
+{
+  "episodio": 9,
+  "data_publicacao": "2026-11-08",
+  "tema": "taxa_poupanca",
+  "instagram": [
+    {
+      "tipo": "capa",
+      "rotulo": "Indicadores",
+      "titulo": "A taxa de poupança: o indicador que revela seu potencial",
+      "subtitulo": "Quanto da sua renda vira patrimônio?"
+    },
+    {
+      "tipo": "formula",
+      "rotulo": "O que é",
+      "titulo": "Uma conta simples.",
+      "formula": "Taxa de poupança = valor poupado no mês ÷ renda líquida × 100",
+      "paragrafos": [
+        "Ela mostra qual parte do que você ganha fica com você — em vez de sair da conta.",
+        "Use a renda líquida: o valor que realmente entra."
+      ]
+    },
+    {
+      "tipo": "barras",
+      "rotulo": "Na prática",
+      "titulo": "Mesma renda, ritmos diferentes.",
+      "barras": [
+        {"nome": "Pessoa A", "detalhe": "poupa R$ 600 de R$ 6.000", "valor": 10, "rotulo": "10%"},
+        {"nome": "Pessoa B", "detalhe": "poupa R$ 1.200 de R$ 6.000", "valor": 20, "rotulo": "20%", "destaque": true}
+      ],
+      "paragrafos": [
+        "Ganham o mesmo. Uma delas transforma o dobro da renda em capacidade de construir patrimônio."
+      ],
+      "nota": "Exemplo ilustrativo."
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "O que ela revela",
+      "titulo": "A velocidade rumo às suas metas.",
+      "paragrafos": [
+        "Em 12 meses, sem considerar rendimentos, a Pessoa A junta R$ 7.200. A Pessoa B, R$ 14.400.",
+        "Para uma meta de R$ 24.000, a diferença é de cerca de 3 anos e 4 meses contra 1 ano e 8 meses."
+      ],
+      "destaque": "Cada ponto percentual a mais encurta o caminho.",
+      "nota": "Exemplo ilustrativo, sem rendimentos."
+    },
+    {
+      "tipo": "cartoes",
+      "rotulo": "O que ela não revela",
+      "titulo": "Um número não conta a história toda.",
+      "cartoes": [
+        ["Se há dívidas caras", "poupar com juros altos correndo pode não compensar"],
+        ["Onde o dinheiro está", "poupar não é o mesmo que investir bem"],
+        ["O custo de vida de cada um", "comparar com outras pessoas engana"],
+        ["A tendência", "um único mês pode ser exceção"]
+      ]
+    },
+    {
+      "tipo": "cartoes",
+      "rotulo": "Como usar",
+      "titulo": "Acompanhe, não julgue.",
+      "cartoes": [
+        ["Calcule todo mês", "com a renda líquida e o valor que sobrou"],
+        ["Olhe a média", "de pelo menos três meses"],
+        ["Evolua aos poucos", "um ponto a mais já muda a trajetória"]
+      ],
+      "destaque": "O ponto de partida importa menos que a direção."
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Conclusão",
+      "titulo": "O que é medido pode ser melhorado.",
+      "paragrafos": [
+        "Qual é a sua taxa de poupança hoje? Faça a conta e conte nos comentários — sem julgamentos.",
+        "Amanhã: patrimônio líquido. Quanto você realmente possui?"
+      ],
+      "destaque": "Salve para refazer o cálculo no fim do mês."
+    }
+  ],
+  "facebook": {
+    "rotulo": "Indicadores",
+    "titulo": "A taxa de poupança",
+    "subtitulo": "O indicador que revela seu potencial.",
+    "cartoes": [
+      ["Calcule", "valor poupado ÷ renda líquida × 100"],
+      ["Compare", "R$ 600 de R$ 6.000 = 10%; R$ 1.200 = 20%"],
+      ["Acompanhe a média", "de pelo menos três meses"],
+      ["Leia com contexto", "dívidas e custo de vida também contam"]
+    ],
+    "frase_final": "O que é medido pode ser melhorado.",
+    "nota": "Exemplo ilustrativo."
+  },
+  "legenda": "Duas pessoas ganham R$ 6.000. Uma guarda R$ 600 por mês; a outra, R$ 1.200. Mesma renda, ritmos bem diferentes.\n\nA taxa de poupança mostra qual parte da sua renda líquida realmente fica com você e pode virar patrimônio. A conta é simples: valor poupado no mês ÷ renda líquida × 100.\n\nMas ela não conta a história toda. Não mostra se há dívidas caras em andamento, se o dinheiro está bem aplicado nem o custo de vida de cada um. Por isso, acompanhe a média de alguns meses e busque evoluir aos poucos, em vez de perseguir um número ideal.\n\nE você: qual é a sua taxa de poupança hoje? Faça a conta e conte nos comentários.\n\nAmanhã, na série Investigando as Finanças: patrimônio líquido — quanto você realmente possui?\n\nValores ilustrativos, sem considerar rendimentos.\nConteúdo educacional, sem recomendação individual de investimento.\n\n#educacaofinanceira #financaspessoais #taxadepoupanca #organizacaofinanceira #investigandoasfinancas"
+}
