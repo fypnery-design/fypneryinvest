@@ -1,0 +1,90 @@
+{
+  "episodio": 10,
+  "data_publicacao": "2026-11-09",
+  "tema": "patrimonio_liquido",
+  "instagram": [
+    {
+      "tipo": "capa",
+      "rotulo": "Indicadores",
+      "titulo": "Patrimônio líquido: quanto você realmente possui?",
+      "subtitulo": "Depois de descontar as dívidas, o que sobra?"
+    },
+    {
+      "tipo": "formula",
+      "rotulo": "O que é",
+      "titulo": "Uma subtração.",
+      "formula": "Patrimônio líquido = o que você tem − o que você deve",
+      "paragrafos": [
+        "Some bens e investimentos. Depois, subtraia todas as obrigações.",
+        "O resultado mostra quanto do que você possui é, de fato, seu."
+      ]
+    },
+    {
+      "tipo": "barras",
+      "rotulo": "Na prática",
+      "titulo": "Um caso para investigar.",
+      "barras": [
+        {"nome": "Bens e investimentos", "detalhe": "o que a pessoa possui", "valor": 150, "rotulo": "150 mil"},
+        {"nome": "Dívidas", "detalhe": "o que a pessoa deve", "valor": 90, "rotulo": "90 mil"},
+        {"nome": "Patrimônio líquido", "detalhe": "150 mil − 90 mil", "valor": 60, "rotulo": "60 mil", "destaque": true}
+      ],
+      "nota": "Exemplo ilustrativo, valores em reais."
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Atenção",
+      "titulo": "Patrimônio não é dinheiro disponível.",
+      "paragrafos": [
+        "Um imóvel, um carro ou um investimento de longo prazo entram no patrimônio, mas nem sempre podem ser usados de imediato.",
+        "Por isso, olhe também a liquidez: quanto você consegue acessar sem pressa nem prejuízo."
+      ],
+      "destaque": "Patrimônio mostra a foto; liquidez mostra a flexibilidade."
+    },
+    {
+      "tipo": "cartoes",
+      "rotulo": "Como calcular",
+      "titulo": "Quatro passos.",
+      "cartoes": [
+        ["Liste o que você possui", "contas, investimentos, bens"],
+        ["Liste o que você deve", "financiamentos, cartão, empréstimos"],
+        ["Subtraia", "bens menos dívidas"],
+        ["Repita a cada trimestre", "a evolução vale mais que um número"]
+      ]
+    },
+    {
+      "tipo": "cartoes",
+      "rotulo": "Como ler",
+      "titulo": "Olhe a direção.",
+      "cartoes": [
+        ["Está crescendo?", "por aportes, valorização ou menos dívidas"],
+        ["Está negativo?", "é um ponto de partida, não uma sentença"],
+        ["Está concentrado?", "tudo em um só bem aumenta a dependência"]
+      ],
+      "destaque": "O número de hoje importa menos que a trajetória."
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Conclusão",
+      "titulo": "Saber onde está é o primeiro passo.",
+      "paragrafos": [
+        "Você já calculou o seu patrimônio líquido? Conte nos comentários qual foi a maior surpresa — sem precisar divulgar valores.",
+        "Amanhã: o preço de uma dívida e o poder dos juros."
+      ],
+      "destaque": "Salve para refazer a conta no próximo trimestre."
+    }
+  ],
+  "facebook": {
+    "rotulo": "Indicadores",
+    "titulo": "Patrimônio líquido",
+    "subtitulo": "Quanto você realmente possui?",
+    "cartoes": [
+      ["Some o que você tem", "contas, investimentos e bens"],
+      ["Subtraia o que você deve", "financiamentos, cartão e empréstimos"],
+      ["Exemplo: 150 mil − 90 mil", "patrimônio líquido de 60 mil"],
+      ["Não é dinheiro disponível", "considere também a liquidez"]
+    ],
+    "frase_final": "Acompanhe a evolução, não só o número.",
+    "nota": "Exemplo ilustrativo, valores em reais."
+  },
+  "legenda": "Uma pessoa tem R$ 150.000 em bens e investimentos e R$ 90.000 em dívidas. Quanto ela realmente possui?\n\nO patrimônio líquido responde a essa pergunta: tudo o que você tem menos tudo o que você deve. Neste exemplo, R$ 60.000.\n\nMas atenção: patrimônio não é o mesmo que dinheiro disponível. Um imóvel ou um investimento de longo prazo contam no cálculo, mas nem sempre podem ser usados de imediato. Por isso, vale olhar também a liquidez e acompanhar a evolução a cada trimestre, em vez de se prender a um único número.\n\nE você: já calculou o seu patrimônio líquido? Conte nos comentários qual foi a maior surpresa — sem precisar divulgar valores.\n\nAmanhã, na série Investigando as Finanças: o preço de uma dívida e o poder dos juros.\n\nValores ilustrativos.\nConteúdo educacional, sem recomendação individual de investimento.\n\n#educacaofinanceira #financaspessoais #patrimonioliquido #organizacaofinanceira #investigandoasfinancas"
+}
