@@ -1,0 +1,127 @@
+{
+  "episodio": 11,
+  "data_publicacao": "2026-11-10",
+  "tema": "preco_divida",
+  "instagram": [
+    {
+      "tipo": "capa",
+      "rotulo": "Dívidas",
+      "titulo": "O preço de uma dívida e o poder dos juros",
+      "subtitulo": "Quanto ela custa de verdade?"
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "A pergunta certa",
+      "titulo": "A parcela esconde o preço.",
+      "paragrafos": [
+        "Diante de uma dívida, costumamos perguntar: \"a parcela cabe no bolso?\". A pergunta mais útil é outra: quanto vou pagar no total?",
+        "O custo de uma dívida depende de duas alavancas: a taxa de juros e o prazo."
+      ],
+      "destaque": "Quem olha só a parcela não vê o preço."
+    },
+    {
+      "tipo": "barras",
+      "rotulo": "A taxa",
+      "titulo": "Mesmo valor, taxas diferentes.",
+      "barras": [
+        {
+          "nome": "Dívida A",
+          "detalhe": "R$ 10.000 em 24x a 2% ao mês",
+          "valor": 2689,
+          "rotulo": "+27%"
+        },
+        {
+          "nome": "Dívida B",
+          "detalhe": "R$ 10.000 em 24x a 4% ao mês",
+          "valor": 5741,
+          "rotulo": "+57%",
+          "destaque": true
+        }
+      ],
+      "paragrafos": [
+        "Em juros, a Dívida A custa cerca de R$ 2.689. A Dívida B, cerca de R$ 5.741 — mais que o dobro."
+      ],
+      "nota": "Exemplo ilustrativo, parcelas fixas (tabela Price)."
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "O prazo",
+      "titulo": "O tempo também cobra.",
+      "paragrafos": [
+        "Os mesmos R$ 10.000 a 2% ao mês: em 12x, a parcela é de R$ 945,60 e os juros somam cerca de R$ 1.347.",
+        "Em 48x, a parcela cai para R$ 326,02 — mas os juros sobem para cerca de R$ 5.649."
+      ],
+      "destaque": "Parcela menor nem sempre é dívida mais barata.",
+      "nota": "Exemplo ilustrativo, parcelas fixas (tabela Price)."
+    },
+    {
+      "tipo": "formula",
+      "rotulo": "Compare",
+      "titulo": "Dívida x retorno do dinheiro.",
+      "formula": "2% ao mês ≈ 26,8% ao ano. 4% ao mês ≈ 60,1% ao ano.",
+      "paragrafos": [
+        "Compare esse custo com o retorno líquido do seu dinheiro, considerando o risco.",
+        "Se a dívida custa mais do que o investimento rende, reduzi-la tende a ser mais eficiente."
+      ]
+    },
+    {
+      "tipo": "cartoes",
+      "rotulo": "Antes de decidir",
+      "titulo": "Ao contratar ou renegociar.",
+      "cartoes": [
+        [
+          "Peça o CET",
+          "o custo efetivo total inclui juros, tarifas e seguros"
+        ],
+        [
+          "Some o total",
+          "parcela × número de parcelas"
+        ],
+        [
+          "Compare o retorno",
+          "líquido e com o risco do investimento"
+        ],
+        [
+          "Preserve liquidez",
+          "uma reserva mínima evita novas dívidas"
+        ]
+      ]
+    },
+    {
+      "tipo": "texto",
+      "rotulo": "Conclusão",
+      "titulo": "Os juros trabalham — a favor ou contra você.",
+      "paragrafos": [
+        "Você sabe quanto vai pagar, no total, pelas dívidas que tem hoje? Conte nos comentários qual mais pesa — sem divulgar valores.",
+        "Amanhã: o preço dos seus sonhos. Quanto custa chegar lá?"
+      ],
+      "destaque": "Salve para consultar antes da próxima parcela."
+    }
+  ],
+  "facebook": {
+    "rotulo": "Dívidas",
+    "titulo": "O preço de uma dívida",
+    "subtitulo": "E o poder dos juros.",
+    "cartoes": [
+      [
+        "Olhe o total",
+        "não só a parcela que cabe no bolso"
+      ],
+      [
+        "A taxa pesa",
+        "24x de R$ 10 mil: juros de R$ 2.689 ou R$ 5.741"
+      ],
+      [
+        "O prazo também",
+        "a 2% a.m., 48x somam R$ 5.649 de juros"
+      ],
+      [
+        "Compare",
+        "CET da dívida x retorno líquido, com risco"
+      ]
+    ],
+    "frase_final": "Parcela menor nem sempre é dívida mais barata.",
+    "nota": "Exemplo ilustrativo, parcelas fixas (tabela Price)."
+  },
+  "legenda": "Duas dívidas de R$ 10.000, ambas em 24 parcelas. Uma a 2% ao mês, outra a 4%. A diferença no total pago? Mais de R$ 3.000.\n\nQuando olhamos só para a parcela, perguntamos se ela cabe no bolso. Mas o preço real de uma dívida depende de duas alavancas: a taxa de juros e o prazo. Alongar o prazo reduz a parcela — e quase sempre aumenta o total de juros.\n\nAntes de contratar ou renegociar, peça o CET (custo efetivo total), some quanto vai pagar no fim e compare esse custo com o retorno líquido que o seu dinheiro consegue obter, considerando o risco. E mantenha uma reserva mínima para não precisar de novas dívidas.\n\nE você: sabe quanto vai pagar, no total, pelas dívidas que tem hoje? Conte nos comentários qual delas mais pesa — sem precisar divulgar valores.\n\nAmanhã, na série Investigando as Finanças: o preço dos seus sonhos — quanto custa chegar lá?\n\nValores ilustrativos, parcelas fixas (tabela Price).\nConteúdo educacional, sem recomendação individual de investimento.\n\n#educacaofinanceira #financaspessoais #juros #dividas #investigandoasfinancas"
+}
